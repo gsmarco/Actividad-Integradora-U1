@@ -8,7 +8,7 @@
     <div class="w-40 bg-light p-3 rounded shadow">
       <h2 class="text-center mb-3">Tabla de productos</h2>
       <ul class="fs-4 text-start">
-        <li>ElementoCódigo</li>
+        <li>Código</li>
         <li>Descripción</li>
         <li>Precio</li>
       </ul>
